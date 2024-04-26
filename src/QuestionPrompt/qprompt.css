@@ -1,0 +1,50 @@
+.q-container{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap;
+    height: 200px;
+    width: 300px;
+    margin: 0;
+    padding: 10px;
+    background-color: pink;
+    text-align: center;
+    box-shadow: 5px 5px 5px #ead7db;
+    border-radius: 3%;
+ 
+}
+
+.q{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 5px 5px 5px 5px #e9c3c7;
+    
+    border-radius: 3%;
+
+}
+
+/* @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  
+  .cursor {
+    display: inline-block;
+    width: 0.1em;
+    height: 1.1em;
+    background-color: black;
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+   */
